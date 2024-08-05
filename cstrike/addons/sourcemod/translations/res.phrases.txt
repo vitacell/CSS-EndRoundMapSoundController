@@ -1,0 +1,54 @@
+﻿"Phrases"
+{
+	"Announce Message"
+	{
+		"#format"		"{1:c},{2:c},{3:c},{4:c}"
+		"en"			"Type {1}!res {2}or {3}/res {4}to turn on/off round end sounds."
+		"es"			"Escribe {1}!res {2}o {3}/res {4}para activar/desactivar la musica del final de la ronda."
+		"ru"			"Наберите в чате {1}!res {2}или {3}/res{4}, чтобы вкл/выкл музыку в конце раунда"
+		"de"			"Tippe {1}!res {2}oder {3}/res {4}um die Sounds auszuschalten."
+		"pl"      		"Wpisz {1}!res {2}lub {3}/res {4} by włączyć/wyłączyć dźwięki na koniec rundy"
+		"hu"			"A körvégi zenék ki/be kapcsolásához írj {1}!res {2}vagy {3}/res {4}szót a chatba"
+	}
+	"Cookie Round End Sound"
+	{
+		"en"			"Round_End_Sound"
+		"es"			"Musica al final de la ronda"
+		"ru"			"Музыка в Конце Раунда"
+		"de"			"Round End Sound"
+		"pl"      	"Dźwięki na koniec rundy"
+		"hu"			"Körvégi zene"
+	}
+	"Res On"
+	{
+		"en"			"You will now hear round end sounds."
+		"es"			"Ahora vas a escuchar los sonidos al final de la ronda."
+		"ru"			"Теперь вы будете слушать музыку в конце раунда"
+		"de"			"Du wirst nun wieder Sounds hören."
+		"pl"      	"Teraz będziesz słyszał muzykę na koniec rundy"
+		"hu"			"Mostantól hallani fogod a körvégi zenéket"
+	}
+	"Res Off"
+	{
+		"en"			"You won't now hear round end sounds."
+		"es"			"Ahora ya NO vas a escuchar los sonidos al final de la ronda."
+		"ru"			"Теперь вы не будете слушать музыку в конце раунда"
+		"de" 			"Du wirst nun keine Sounds mehr hören."
+		"pl"      		"Teraz nie będziesz słyszał muzyki na koniec rundy"
+		"hu"			"Mostantól nem fogod hallani a körvégi zenéket"
+	}
+        "Current sound"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"{lightgreen}[RES]{default} Current sound: {red}{1} - {2}"
+		"es"			"{lightgreen}[RES]{default} Sonido actual: {red}{1} - {2}"
+		"ru"			"{lightgreen}[RES]{default} Текущий саундтрэк: {red}{1} - {2}"
+	}
+	"Current sound path"
+	{
+		"#format"		"{1:s}"
+		"en"			"{lightgreen}[RES]{default} Current sound: {red}{1}"
+		"es"			"{lightgreen}[RES]{default} Sonido actual: {red}{1}"
+		"ru"			"{lightgreen}[RES]{default} Текущий саундтрэк: {red}{1}"
+	}
+}
